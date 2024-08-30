@@ -6,7 +6,7 @@
 
 <br>
 
-[BACK](#praktikum-1---sistem-operasi)
+[{8592}  BACK](#praktikum-1---sistem-operasi)
 # Soal 1
 
 <div align="center">
