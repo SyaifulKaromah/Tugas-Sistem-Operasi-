@@ -5,9 +5,7 @@
 
 <br>
 
-# Soal 1
-
-<a href="#praktikum-1---sistem-operasi" style="display: inline-block; float: right;">← BACK</a>
+# Soal 1 [           ← BACK](#praktikum-1---sistem-operasi)
 
 <div align="center">
 
