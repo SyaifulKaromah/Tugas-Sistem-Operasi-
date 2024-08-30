@@ -5,12 +5,7 @@
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td><h1>Soal 1</h1></td>
-    <td align="right"><a href="#praktikum-1---sistem-operasi">                ← BACK</a></td>
-  </tr>
-</table>
+# Soal 1                                             [← BACK](#praktikum-1---sistem-operasi)
 
 <div align="center">
 
