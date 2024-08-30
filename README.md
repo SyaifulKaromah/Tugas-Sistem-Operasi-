@@ -12,7 +12,7 @@
     <h1>Soal 1</h2>
   </div>
   <div class="column">
-    [←    BACK](#praktikum-1---sistem-operasi)
+    <p>[←    BACK](#praktikum-1---sistem-operasi)</p>
 </div>
 </div>
 
