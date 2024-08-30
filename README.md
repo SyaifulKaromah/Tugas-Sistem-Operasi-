@@ -1,3 +1,12 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
 #myBtn {
   display: none;
   position: fixed;
@@ -50,6 +59,7 @@ function topFunction() {
 </script>
 
 </body>
+</html>
 
 
 # PRAKTIKUM 1 - SISTEM OPERASI
