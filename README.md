@@ -1,6 +1,6 @@
 # PRAKTIKUM 1 - SISTEM OPERASI
-> [Soal 1](#soal-1)
-> [Soal 2](#soal-2)
+> [Soal 1](#soal-1)/
+> [Soal 2](#soal-2)/
 > [Soal 3](#soal-3)
 
 
