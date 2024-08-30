@@ -7,7 +7,8 @@
 <br>
 <br>
 
-# [←    BACK](#praktikum-1---sistem-operasi) <div align="center"> Soal 1 </div>
+[←    BACK](#praktikum-1---sistem-operasi)
+# Soal 1
 
 <div align="center">
 
