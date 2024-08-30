@@ -286,8 +286,8 @@ Praktikum ini mengilustrasikan konsep-konsep penting dalam sistem operasi sepert
 <br>
 <br>
 
-# Soal 2
 [←    BACK](#praktikum-1---sistem-operasi)
+# Soal 2
 
 ## Informasi Mahasiswa
 - **Nama:** M. Syaiful Karomah
@@ -320,8 +320,8 @@ Ada beberapa alasan mengapa saat instalasi perlu dipilih "/" pada opsi **mount p
 <br>
 <br>
 
-# Soal 3
 [←    BACK](#praktikum-1---sistem-operasi)
+# Soal 3
 
 ## Informasi Mahasiswa
 - **Nama:** M. Syaiful Karomah
