@@ -7,8 +7,8 @@
 <br>
 <br>
 
-[←    BACK](#praktikum-1---sistem-operasi)
 # Soal 1
+[←    BACK](#praktikum-1---sistem-operasi)
 
 <div align="center">
 
@@ -286,8 +286,8 @@ Praktikum ini mengilustrasikan konsep-konsep penting dalam sistem operasi sepert
 <br>
 <br>
 
-[←    BACK](#praktikum-1---sistem-operasi)
 # Soal 2
+[←    BACK](#praktikum-1---sistem-operasi)
 
 ## Informasi Mahasiswa
 - **Nama:** M. Syaiful Karomah
@@ -320,8 +320,8 @@ Ada beberapa alasan mengapa saat instalasi perlu dipilih "/" pada opsi **mount p
 <br>
 <br>
 
-[←    BACK](#praktikum-1---sistem-operasi)
 # Soal 3
+[←    BACK](#praktikum-1---sistem-operasi)
 
 ## Informasi Mahasiswa
 - **Nama:** M. Syaiful Karomah
