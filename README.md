@@ -5,11 +5,12 @@
 
 <br>
 
-# Soal 1
-
-<a href="#praktikum-1---sistem-operasi" style="float: right;">← BACK</a>
-
-<br clear="all" />
+<table width="100%">
+  <tr>
+    <td><h1>Soal 1</h1></td>
+    <td align="right"><a href="#praktikum-1---sistem-operasi">← BACK</a></td>
+  </tr>
+</table>
 
 <div align="center">
 
