@@ -5,10 +5,10 @@
 
 <br>
 
-<table width="10000%">
+<table width="100%">
   <tr>
     <td><h1>Soal 1</h1></td>
-    <td align="right"><a href="#praktikum-1---sistem-operasi">← BACK</a></td>
+    <td align="right"><a href="#praktikum-1---sistem-operasi">                ← BACK</a></td>
   </tr>
 </table>
 
