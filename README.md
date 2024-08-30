@@ -3,18 +3,10 @@
 > [Soal 2](#soal-2)\
 > [Soal 3](#soal-3)
 
-
-<br>
 <br>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <h1>Soal 1</h1>
-  </div>
-  <div>
-    <p><a href="#praktikum-1---sistem-operasi">← BACK</a></p>
-  </div>
-</div>
+| # Soal 1 | [← BACK](#praktikum-1---sistem-operasi) |
+|--------|----------------------------------------|
 
 <div align="center">
 
