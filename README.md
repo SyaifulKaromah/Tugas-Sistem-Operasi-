@@ -1,4 +1,3 @@
-
 # PRAKTIKUM 1 - SISTEM OPERASI
 <br>
 
@@ -251,8 +250,8 @@ Praktikum ini mengilustrasikan konsep-konsep penting dalam sistem operasi sepert
 
 <div align="justify">
 
-- Praktikum instalasi Ubuntu pada mesin virtual memberikan pengalaman hands-on yang berharga dalam manajemen sistem operasi dan virtualisasi. Melalui proses ini, mahasiswa memperoleh pemahaman praktis tentang konsep-konsep kunci seperti alokasi sumber daya, partisi disk, dan konfigurasi sistem. Penggunaan VirtualBox mendemonstrasikan keuntungan virtualisasi dalam pembelajaran dan eksperimen sistem operasi.\
-- Keberhasilan instalasi Ubuntu menunjukkan kemampuan mahasiswa dalam menerapkan pengetahuan teoritis ke dalam praktek nyata. Pengalaman ini juga memperkenalkan mahasiswa pada ekosistem open-source, yang penting dalam pengembangan software modern.\
+- Praktikum instalasi Ubuntu pada mesin virtual memberikan pengalaman hands-on yang berharga dalam manajemen sistem operasi dan virtualisasi. Melalui proses ini, mahasiswa memperoleh pemahaman praktis tentang konsep-konsep kunci seperti alokasi sumber daya, partisi disk, dan konfigurasi sistem. Penggunaan VirtualBox mendemonstrasikan keuntungan virtualisasi dalam pembelajaran dan eksperimen sistem operasi.
+- Keberhasilan instalasi Ubuntu menunjukkan kemampuan mahasiswa dalam menerapkan pengetahuan teoritis ke dalam praktek nyata. Pengalaman ini juga memperkenalkan mahasiswa pada ekosistem open-source, yang penting dalam pengembangan software modern.
 - Keterampilan yang diperoleh dari praktikum ini akan sangat bermanfaat dalam studi lanjutan tentang sistem operasi, jaringan komputer, dan pengembangan software. Selain itu, pemahaman tentang sistem Linux seperti Ubuntu semakin relevan dalam industri teknologi informasi saat ini.
 
 </div>
@@ -270,7 +269,7 @@ Praktikum ini mengilustrasikan konsep-konsep penting dalam sistem operasi sepert
 - Praktikum 1	Sistem Operasi Linux
 - Canonical Ltd. (2024). Ubuntu Desktop for developers. https://ubuntu.com/desktop/developers
 - Oracle Corporation. (2024). Oracle VM VirtualBox User Manual. https://www.virtualbox.org/manual/
-- Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). Operating System Concepts (10th ed.). Wiley.\
+- Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). Operating System Concepts (10th ed.). Wiley.
 - Tanenbaum, A. S., & Bos, H. (2014). Modern Operating Systems (4th ed.). Peason.
 - Ubuntu Documentation Team. (2024). Ubuntu Server Guide. https://ubuntu.com/server/docs
 
@@ -282,10 +281,6 @@ Praktikum ini mengilustrasikan konsep-konsep penting dalam sistem operasi sepert
 
 # Soal 2
 
-<div asign= "justify">
-
-# Analisis Pemilihan Mount Point Saat Instalasi
-
 ## Informasi Mahasiswa
 - **Nama:** M. Syaiful Karomah
 - **NIM:** 09011282328111
@@ -293,11 +288,12 @@ Praktikum ini mengilustrasikan konsep-konsep penting dalam sistem operasi sepert
 
 <br>
 
-Analisislah pada gambar kenapa saat instalasi perlu dipilih "/" pada opsi **mount point**?
+<div asign= "justify">
+
+## Analisislah pada gambar kenapa saat instalasi perlu dipilih "/" pada opsi **mount point**?
 
 ![Mount Point Selection](https://github.com/SyaifulKaromah/foto-repo/blob/e433532cee5da6d4afdc9639eebc9ae06a79300b/Mount.png)
 
-<br>
 <br>
 
 ## Jawaban
@@ -317,3 +313,49 @@ Ada beberapa alasan mengapa saat instalasi perlu dipilih "/" pada opsi **mount p
 <br>
 
 # Soal 3
+
+## Informasi Mahasiswa
+- **Nama:** M. Syaiful Karomah
+- **NIM:** 09011282328111
+- **Kelas:** SK3C
+
+<br>
+
+<div align="Justify">
+
+## Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs ! 
+
+<br>
+
+## Jawab:
+
+**1. ext4:**
+  - Penerus dari ext3 dengan peningkatan performa dan fitur
+  - Mendukung volume dan file berukuran sangat besar
+  - Memiliki fitur journaling untuk mencegah kerusakan data
+
+**2. ext3:**
+  - Versi sebelumnya dari ext4
+  - Menambahkan fitur journaling ke ext2
+  - Kompatibel dengan ext2 dan ext4
+
+**3. swap:**
+  - Bukan sistem file, melainkan ruang pada hard drive yang digunakan sebagai memori virtual
+  - Membantu sistem ketika RAM fisik penuh
+
+**4. NTFS:**
+  - New Technology File System, dikembangkan oleh Microsoft
+  - Digunakan pada sistem operasi Windows modern
+  - Mendukung fitur keamanan, kompresi, dan enkripsi
+
+**5. FAT32:**
+  - File Allocation Table 32-bit
+  - Sistem file lama namun masih kompatibel dengan banyak perangkat
+  - Memiliki batasan ukuran file maksimal 4GB
+
+</dir>
+
+**6. Btrfs:**
+  - B-tree File System, dikembangkan untuk Linux
+  - Menawarkan fitur canggih seperti snapshots, kompresi, dan RAID
+  - Fokus pada toleransi kesalahan dan kemudahan pengelolaan penyimpanan
