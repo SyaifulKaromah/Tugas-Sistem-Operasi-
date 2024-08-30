@@ -9,7 +9,7 @@
 
 <div class="row">
   <div class="column">
-    # Soal 1
+    <h1>Soal 1</h2>
   </div>
   <div class="column">
     [←    BACK](#praktikum-1---sistem-operasi)
