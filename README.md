@@ -7,13 +7,13 @@
 <br>
 <br>
 
-<div class="row">
-  <div class="column">
-    <h1>Soal 1</h2>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <h1>Soal 1</h1>
   </div>
-  <div class="column">
-    <p>[←    BACK](#praktikum-1---sistem-operasi)</p>
-</div>
+  <div>
+    <p><a href="#praktikum-1---sistem-operasi">← BACK</a></p>
+  </div>
 </div>
 
 <div align="center">
