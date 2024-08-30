@@ -5,7 +5,7 @@
 
 <br>
 
-<table width="100%">
+<table width="10000%">
   <tr>
     <td><h1>Soal 1</h1></td>
     <td align="right"><a href="#praktikum-1---sistem-operasi">← BACK</a></td>
