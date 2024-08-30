@@ -5,7 +5,8 @@
 
 <br>
 
-<h1>Soal 1</h1> <p>[‎← BACK](#praktikum-1---sistem-operasi)</p>
+[← BACK](#praktikum-1---sistem-operasi)
+# Soal 1
 
 <div align="center">
 
