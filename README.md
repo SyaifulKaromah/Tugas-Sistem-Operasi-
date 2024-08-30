@@ -2,10 +2,9 @@
 > [Soal 1](#soal-1)\
 > [Soal 2](#soal-2)\
 > [Soal 3](#soal-3)
-
-<br>
-
 ----
+<br>
+<be>
 
 [← BACK](#praktikum-1---sistem-operasi)
 # Soal 1
