@@ -1,3 +1,6 @@
+# PRAKTIKUM 1 - SISTEM OPERASI
+<br>
+
 # Soal 1
 
 <div align="center">
@@ -28,34 +31,35 @@ Hari/Tanggal: Kamis, 29 Agustus 2024
 **2024**
 <br>
 <br>
+
 ## Daftar Isi
 
 </div>
 
 >
-[Pendahuluan](#pendahuluan)
+**[Pendahuluan](#pendahuluan)**
   > [Latar Belakang](#latar-belakang)\
   > [Tujuan](#tujuan)\
   > [Landasan Teori](#landasan-teori)
 
 >
-[Alat dan Bahan](#alat-dan-bahan)
+**[Alat dan Bahan](#alat-dan-bahan)**
   > [Alat](#alat)\
   > [Bahan](#bahan)
 
 >
-[Prosedur](#prosedur)
+**[Prosedur](#prosedur)**
 
 >
-[Hasil dan Pembahasan](#hasil-dan-pembahasan)
+**[Hasil dan Pembahasan](#hasil-dan-pembahasan)**
   > [Hasil](#hasil)\
   > [Pembahasan](#pembahasan)
 
 >
-[Kesimpulan](#kesimpulan)
+**[Kesimpulan](#kesimpulan)**
 
 >
-[Daftar Pustaka](#daftar-pustaka)
+**[Daftar Pustaka](#daftar-pustaka)**
 
 <div align="center">
 <br>
@@ -177,7 +181,7 @@ Dengan melakukan praktikum ini, mahasiswa diharapkan tidak hanya memperoleh kete
 
 15. Kemudian, "Restart now"
 
-![Langkah 15](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/restart%20now.png)
+![Langkah 15](https://github.com/SyaifulKaromah/foto-repo/blob/c9f20bf27a7fc03518c6200053bb3de74a7459e6/restartnow.png)
 
 ![Langkah 15-2](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/booting.png)
 
@@ -276,6 +280,9 @@ Praktikum ini mengilustrasikan konsep-konsep penting dalam sistem operasi sepert
 <br>
 
 # Soal 2
+
+<div asign= "justify">
+
 # Analisis Pemilihan Mount Point Saat Instalasi
 
 ## Informasi Mahasiswa
@@ -301,3 +308,11 @@ Ada beberapa alasan mengapa saat instalasi perlu dipilih "/" pada opsi **mount p
 2. Pilihan "/" membuat kita bisa mengakses semua file dan folder di System. Misalnya ketika ingin membuka file di Desktop, Jalur lengkapnya adalah "/Desktop". Jadi dengan di pilihnya "/" sebagai mount point, maka semua jalur file dapat diakses dengan mudah.
 
 3. Karena hampir semua distribusi Linux menggunakan "/" sebagai direktori root.
+
+</div>
+
+----
+<br>
+<br>
+
+# Soal 3
