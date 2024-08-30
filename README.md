@@ -7,6 +7,8 @@
 
 # Soal 1
 
+<a href="#praktikum-1---sistem-operasi" style="display: inline-block; float: right;">← BACK</a>
+
 <div align="center">
 
 ## LAPORAN PRAKTIKUM SISTEM OPERASI
