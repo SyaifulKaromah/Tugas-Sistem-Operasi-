@@ -8,8 +8,12 @@
 <br>
 
 <div class="row">
-  <div class="column"># Soal 1</div>
-  <div class="column">[←    BACK](#praktikum-1---sistem-operasi)</div>
+  <div class="column">
+    # Soal 1
+  </div>
+  <div class="column">
+    [←    BACK](#praktikum-1---sistem-operasi)
+</div>
 </div>
 
 <div align="center">
