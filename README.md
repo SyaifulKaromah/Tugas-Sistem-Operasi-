@@ -193,10 +193,9 @@ Dengan melakukan praktikum ini, mahasiswa diharapkan tidak hanya memperoleh kete
 
 16. Ubuntu telah selesai di install
 
+</div>
    ![Langkah 16](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/selesai.png)
 
-
-<\div>
 
 <div align="center">
 <br>
