@@ -7,8 +7,10 @@
 <br>
 <br>
 
-[←    BACK](#praktikum-1---sistem-operasi)
-# Soal 1
+<div class="row">
+  <div class="column"># Soal 1</div>
+  <div class="column">[←    BACK](#praktikum-1---sistem-operasi)</div>
+</div>
 
 <div align="center">
 
