@@ -24,7 +24,7 @@ Sutarno, M.T.\
 Iman Saladin B. Azhar, S. Kom., M. M.SI.\
 Dr. Ahmad Zarkarsi, M. T.
 
-![Logo Universitas Sriwijaya](https://github.com/SyaifulKaromah/foto-repo/blob/285a4fb7041ceb481a2d3136fdbcd03727e3a042/lambang-unsri-png-0-removebg-preview.png)
+![Logo Universitas Sriwijaya](https://github.com/SyaifulKaromah/foto-repo/blob/afa46f9c1746a24004c7106948d9a7adcf28a5be/1639367926_61ac53fbb7fda3f5b72f.png)
 
 **Disusun Oleh:**\
 Nama: M. Syaiful Karomah\
