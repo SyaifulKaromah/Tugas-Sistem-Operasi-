@@ -6,7 +6,7 @@
 
 <br>
 
-# Soal 1
+# Soal 1   [Back to Up](praktikum-1---sistem-operasi)
 
 <div align="center">
 
