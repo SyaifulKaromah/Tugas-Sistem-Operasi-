@@ -1,3 +1,4 @@
+
 # PRAKTIKUM 1 - SISTEM OPERASI
 <br>
 
@@ -203,17 +204,17 @@ Dengan melakukan praktikum ini, mahasiswa diharapkan tidak hanya memperoleh kete
 
 ### Hasil
 Hasil dari praktikum ini adalah sebagai berikut:
--	Berhasil menginstal dan mengkonfigurasi Oracle VM VirtualBox pada komputer host.
--	Berhasil membuat mesin virtual baru dengan spesifikasi yang sesuai untuk Ubuntu:
-  -	Alokasi RAM: 5199 MB
-  -	Alokasi penyimpanan: 20 GB
-  -	Jumlah core prosesor: 1
--	Berhasil menginstal Ubuntu 24.04 LTS pada mesin virtual yang telah dibuat.
--	Berhasil melakukan konfigurasi awal Ubuntu, termasuk:
-  -	Pemilihan bahasa dan zona waktu
-  -	Pembuatan akun pengguna
-  -	Pengaturan koneksi jaringan
--	Berhasil melakukan boot ke sistem operasi Ubuntu yang baru diinstal dan memverifikasi fungsionalitas dasarnya.
+-	[x] Berhasil menginstal dan mengkonfigurasi Oracle VM VirtualBox pada komputer host.
+-	[x] Berhasil membuat mesin virtual baru dengan spesifikasi yang sesuai untuk Ubuntu:
+    - Alokasi RAM: 5199 MB
+    -	Alokasi penyimpanan: 20 GB
+    -	Jumlah core prosesor: 1
+-	[x] Berhasil menginstal Ubuntu 24.04 LTS pada mesin virtual yang telah dibuat.
+-	[x] Berhasil melakukan konfigurasi awal Ubuntu, termasuk:
+    -	Pemilihan bahasa dan zona waktu
+    -	Pembuatan akun pengguna
+    -	Pengaturan koneksi jaringan
+-	[x] Berhasil melakukan boot ke sistem operasi Ubuntu yang baru diinstal dan memverifikasi fungsionalitas dasarnya.
 
 ### Pembahasan
 -	Persiapan dan Konfigurasi VirtualBox:\
