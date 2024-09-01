@@ -1,3 +1,5 @@
+<div align="center">
+
 ## LAPORAN PRAKTIKUM SISTEM OPERASI
 
 ## FSK2108
