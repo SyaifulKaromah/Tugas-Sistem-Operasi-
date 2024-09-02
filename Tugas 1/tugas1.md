@@ -1,3 +1,5 @@
+[←    BACK](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/tree/main)
+
 <div align="center">
 
 ## LAPORAN PRAKTIKUM SISTEM OPERASI
