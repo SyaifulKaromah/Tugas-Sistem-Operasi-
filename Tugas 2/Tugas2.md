@@ -7,7 +7,11 @@
 <br>
 <br>
 
+<div align="Center">
+
 ## 50 Command Line Linux
+
+</div>
 
 ### 1. Shutdown (Matikan atau Reboot)
 **Cara Penggunaan:**
