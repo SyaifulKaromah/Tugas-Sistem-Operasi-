@@ -1,4 +1,4 @@
-[←    BACK](#praktikum-1---sistem-operasi)
+[←    BACK](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/tree/main)
 # Soal 3
 
 ## Informasi Mahasiswa
