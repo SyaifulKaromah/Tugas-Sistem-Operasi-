@@ -3,4 +3,4 @@
 
 # Daftar Tugas
 [```Tugas 1 & 2```](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%201%20%26%202/Tugas1%262.md)
-[```Tugas 3```](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/f6e54ab2c4d800ab88279e4402a004d8b5c7240e/Tugas%203/Tugas3.md)
+[```Tugas 3```](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%203/Tugas3.md)
