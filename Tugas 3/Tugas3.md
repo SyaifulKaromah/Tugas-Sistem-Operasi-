@@ -644,6 +644,8 @@ command ```Exit``` digunakan untuk menutup terminal
 <div align="center">
 
 ```nslookup``` digunakan untuk mengambil informasi DNS tentang domain tertentu.
+
+</div>
 <br>
 <br>
 
@@ -659,6 +661,7 @@ command ```Exit``` digunakan untuk menutup terminal
 <div align="center">
 
 ```ping``` digunakan untuk mengirimkan request ke host tertentu.
+</div>
 <br>
 <br>
 
@@ -674,21 +677,23 @@ command ```Exit``` digunakan untuk menutup terminal
 <div align="center">
 
 ```ps``` digunakan untuk menampilkan informasi proses yang sdang berjalan.
+</div>
 <br>
 <br>
 
-### 40. pwd
+### 40. locale
 **Cara Penggunaan:**
-> pwd
+> locale
 
 **Contoh Penggunaan:**
-> pwd
+> locale
 
-  ![pwd](hhttps://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/pwd.png)
+  ![locale](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/locale.png)
 
 <div align="center">
 
-```pwd``` digunakan untuk menampilkan direktori kerja saat ini.
+```locale``` digunakan untuk mengidentifikasi suatu aturan lokal misalnya bahasa, karakter, penanggalan dan sebagainya dari suatu wilayah negara tertentu.
+</div>
 <br>
 <br>
 
@@ -699,11 +704,12 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > pwd
 
-  ![pwd](hhttps://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/pwd.png)
+  ![pwd](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/pwd.png)
 
 <div align="center">
 
 ```pwd``` digunakan untuk menampilkan direktori kerja saat ini.
+</div>
 <br>
 <br>
 
@@ -719,6 +725,7 @@ command ```Exit``` digunakan untuk menutup terminal
 <div align="center">
 
 ```free``` digunakan untuk menampilkan informasi tentang memory dan swap dalam kibibyte (KiB).
+</div>
 <br>
 <br>
 
@@ -734,6 +741,7 @@ command ```Exit``` digunakan untuk menutup terminal
 <div align="center">
 
 ```journalctl``` digunakan untuk menampilkan log sistem menggunakan jurnal sistem systemd.
+</div>
 <br>
 <br>
 
@@ -749,6 +757,7 @@ command ```Exit``` digunakan untuk menutup terminal
 <div align="center">
 
 ```times``` digunakan untuk menampilkan ringkasan waktu secara real-time dan waktu user CPU, system CPU.
+</div>
 <br>
 <br>
 
@@ -764,6 +773,7 @@ command ```Exit``` digunakan untuk menutup terminal
 <div align="center">
 
 ```top``` digunakan untuk menunjukkan kinerja dan statistik penggunaan server kamu.
+</div>
 <br>
 <br>
 
@@ -779,6 +789,7 @@ command ```Exit``` digunakan untuk menutup terminal
 <div align="center">
 
 ```uname``` digunakan untuk menampilkan informasi tentang sistem operasi
+</div>
 <br>
 <br>
 
@@ -794,6 +805,7 @@ command ```Exit``` digunakan untuk menutup terminal
 <div align="center">
 
 ```alias``` digunakan untuk menambah atau menampilkan alias dari perintah
+</div>
 <br>
 <br>
 
@@ -809,6 +821,7 @@ command ```Exit``` digunakan untuk menutup terminal
 <div align="center">
 
 ```crontab``` digunakan untuk mengatur tugas tugas terjadwal
+</div>
 <br>
 <br>
 
@@ -824,6 +837,7 @@ command ```Exit``` digunakan untuk menutup terminal
 <div align="center">
 
 ```curl``` digunakan untuk mendownload atau mengirim data dengan URL
+</div>
 <br>
 <br>
 
@@ -839,3 +853,4 @@ command ```Exit``` digunakan untuk menutup terminal
 <div align="center">
 
 ```file``` digunakan untuk menampilkan jenis file
+</div>
