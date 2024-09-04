@@ -14,7 +14,64 @@
 
 </div>
 
-### DAFTAR ISI
+### Daftar Isi
+<details>
+  <summary>Show more</summary>
+
+1. [Shutdown (Matikan atau Reboot)](#shutdown-matikan-atau-reboot)
+2. [Reboot (Mulai Ulang)](#reboot-mulai-ulang)
+3. [Poweroff (Matikan)](#poweroff-matikan)
+4. [Help (Bantuan)](#help-bantuan)
+5. [Man (Manual/Panduan)](#man-manualpanduan)
+6. [Clear (Bersihkan Terminal)](#clear-bersihkan-terminal)
+7. [History (Menampilkan History)](#history-menampilkan-history)
+8. [Exit (Menutup Terminal)](#exit-menutup-terminal)
+9. [ls (List)](#ls-list)
+10. [mkdir (Make Directory)](#mkdir-make-directory)
+11. [cd](#cd)
+12. [Touch](#touch)
+13. [mv (move)](#mv-move)
+14. [cat](#cat)
+15. [Head](#head)
+16. [tail](#tail)
+17. [passwd](#passwd)
+18. [nano](#nano)
+19. [cp](#cp)
+20. [rm](#rm)
+21. [wc](#wc)
+22. [wget (web get)](#wget-web-get)
+23. [grep](#grep)
+24. [tar](#tar)
+25. [echo](#echo)
+26. [date](#date)
+27. [df](#df)
+28. [dig](#dig)
+29. [htop](#htop)
+30. [du](#du)
+31. [hostname](#hostname)
+32. [ifconfig](#ifconfig)
+33. [sudo apt](#sudo-apt)
+34. [kill](#kill)
+35. [locate](#locate)
+36. [netstat](#netstat)
+37. [nslookup](#nslookup)
+38. [ping](#ping)
+39. [ps](#ps)
+40. [locale](#locale)
+41. [pwd](#pwd)
+42. [free](#free)
+43. [journalctl](#journalctl)
+44. [times](#times)
+45. [top](#top)
+46. [uname](#uname)
+47. [alias](#alias)
+48. [crontab](#crontab)
+49. [curl](#curl)
+50. [file](#file)
+
+</details>
+<br>
+<br>
 
 ### 1. Shutdown (Matikan atau Reboot)
 **Cara Penggunaan:**
