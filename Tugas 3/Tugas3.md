@@ -21,7 +21,7 @@
 **Contohh Penggunaan:**
 - > shutdown -r
 
-![Shutdown -r](https://github.com/SyaifulKaromah/foto-repo/blob/65d0bcbfa3b719d099ddd5eff37819f8e5d36ea0/tugas2/shutdown_-r.png)
+    ![Shutdown -r](https://github.com/SyaifulKaromah/foto-repo/blob/65d0bcbfa3b719d099ddd5eff37819f8e5d36ea0/tugas2/shutdown_-r.png)
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 - > shutdown -f
 
-![Shutdown -f](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/shutdown%20-f.png)
+    ![Shutdown -f](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/shutdown%20-f.png)
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 **Contoh Penggunaan:**
 > reboot
 
-![reboot](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/reboot.png)
+  ![reboot](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/reboot.png)
 
 <div align="center">
 
@@ -66,7 +66,7 @@ sama seperti **Shutdown -r**, ```Reboot``` juga berfungsi untuk menyalakan ulang
 **Contoh Penggunaan:**
 > poweroff
 
-![poweroff](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/poweroff.png)
+  ![poweroff](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/poweroff.png)
 
 <div align="center">
 
@@ -83,7 +83,7 @@ sama seperti **Shutdown -f**, ```Poweroff``` juga berfungsi untuk mematikan komp
 **Contoh Penggunaan:**
 > help
 
-![help](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/help.png)
+  ![help](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/help.png)
 
 <div align="center">
 
@@ -100,9 +100,9 @@ command ```Help``` digunakan untuk menampilkan bantuan syntax atas command-comma
 **Contoh Penggunaan:**
 > man netstat
 
-![Man netstat](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/man.png)
+  ![Man netstat](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/man.png)
 
-![man netstat hasil](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/man2.png)
+  ![man netstat hasil](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/man2.png)
 
 <div align="center">
 
@@ -119,9 +119,9 @@ command ```Help``` digunakan untuk menampilkan bantuan syntax atas command-comma
 **Contoh Penggunaan:**
 > clear
 
-![clear](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/clear.png)
+  ![clear](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/clear.png)
 
-![clear hasil](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/clear2.png)
+  ![clear hasil](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/clear2.png)
 
 <div align="center">
 
@@ -138,7 +138,7 @@ command ```Help``` digunakan untuk menampilkan bantuan syntax atas command-comma
 **Contoh Penggunaaan:**
 > history
 
-![History](https://github.com/SyaifulKaromah/foto-repo/blob/019b7a29c9bcac117024d9f3cab29e041dda69c1/tugas2/history.png)
+  ![History](https://github.com/SyaifulKaromah/foto-repo/blob/019b7a29c9bcac117024d9f3cab29e041dda69c1/tugas2/history.png)
 
 <div align="center">
 
@@ -155,7 +155,7 @@ command ```Help``` digunakan untuk menampilkan bantuan syntax atas command-comma
 **Contoh Penggunaan:**
 > exit
 
-![exit](https://github.com/SyaifulKaromah/foto-repo/blob/019b7a29c9bcac117024d9f3cab29e041dda69c1/tugas2/exit.png)
+  ![exit](https://github.com/SyaifulKaromah/foto-repo/blob/019b7a29c9bcac117024d9f3cab29e041dda69c1/tugas2/exit.png)
 
 <div align="center">
 
@@ -172,7 +172,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > ls
 
-![ls](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/ls.png)
+  ![ls](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/ls.png)
 
 <div align="center">
 
@@ -189,7 +189,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > mkdir Hello
 
-![mkdir](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/mkdir.png)
+  ![mkdir](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/mkdir.png)
 
 <div align="center">
 
@@ -206,7 +206,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > cd \Hello
 
-![cd](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/cd.png)
+  ![cd](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/cd.png)
 
 <div align="center">
 
@@ -223,7 +223,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > touch readme.md
 
-![touch](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/touch.png)
+  ![touch](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/touch.png)
 
 <div align="center">
 
@@ -240,7 +240,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > mv readme.md realme.md
 
-![head](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/mv.png)
+  ![head](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/mv.png)
 
 <div align="center">
 
@@ -257,7 +257,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > cat realme.md
 
-![cat](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/cat.png)
+  ![cat](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/cat.png)
 
 <div align="center">
 
@@ -274,7 +274,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > head realme.md
 
-![head](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/head.png)
+  ![head](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/head.png)
 
 <div align="center">
 
@@ -291,7 +291,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > tail realme.md
 
-![tail](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/tail.png)
+  ![tail](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/tail.png)
 
 <div align="center">
 
@@ -308,9 +308,9 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > nano realme.md
 
-![rm](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/nano1.png)
+  ![nano](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/nano1.png)
 
-![rm](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/nano2.png)
+  ![nano2](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/nano2.png)
 
 <div align="center">
 
@@ -327,7 +327,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > cp realme.md readme.html
 
-![cp](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/cp.png)
+  ![cp](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/cp.png)
 
 <div align="center">
 
@@ -344,7 +344,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > rm realme.md
 
-![rm](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/rm.png)
+  ![rm](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/rm.png)
 
 <div align="center">
 
@@ -361,7 +361,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > wc -l realme.md
 
-![wc](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/wc.png)
+  ![wc](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/wc.png)
 
 <div align="center">
 
@@ -378,7 +378,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > wget google.com
 
-![wget](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/wget.png)
+  ![wget](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/wget.png)
 
 <div align="center">
 
@@ -395,7 +395,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > grep "error"  index.html
 
-![grep](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/grep.png)
+  ![grep](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/grep.png)
 
 <div align="center">
 
@@ -412,7 +412,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > tar -czvf Hello.tar.gz Hello/
 
-![tar](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/tar.png)
+  ![tar](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/tar.png)
 
 <div align="center">
 
@@ -429,11 +429,99 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > echo M. Syaiful Karomah
 
-![echo](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/echopng.png)
+  ![echo](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/echopng.png)
 
 <div align="center">
 
 ```echo``` digunakan untuk menampilkan teks yang di input
+</div>
+<br>
+<br>
+
+### 26. date
+**Cara Penggunaan:**
+> date [option]
+
+**Contoh Penggunaan:**
+> date
+
+  ![date](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/date.png)
+
+<div align="center">
+
+```date``` digunakan untuk menampilkan atau mengatur waktu sistem
+</div>
+<br>
+<br>
+
+### 27. df
+**Cara Penggunaan:**
+> df [option]
+
+**Contoh Penggunaan:**
+- > df
+
+    ![df](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/df.png)
+
+- > df -h
+
+    ![df](https://github.com/SyaifulKaromah/foto-repo/blob/main/tugas2/df2.png)
+
+<div align="center">
+
+```df``` untuk menampilkan informasi ruang disk yang tersedia
+</div>
+<br>
+<br>
+
+### 28. dig
+**Cara Penggunaan:**
+> dig [domain]
+
+**Contoh Penggunaan:**
+> dig
+
+  ![dig](https://github.com/SyaifulKaromah/foto-repo/blob/main/tugas2/dig.png)
+
+<div align="center">
+
+```dig``` digunakan untuk meminta informasi  tentang DNS name server.
+</div>
+<br>
+<br>
+
+### 29. htop
+**Cara Penggunaan:**
+> htop 
+
+**Contoh Penggunaan:**
+> htop
+
+  ![htop](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/htop1.png)
+  
+  ![htop](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/htop2.png)
+
+<div align="center">
+
+```htop``` digunakan untuk memantau proses sistem dan mengelola proses.
+</div>
+<br>
+<br>
+
+### 30. htop
+**Cara Penggunaan:**
+> htop 
+
+**Contoh Penggunaan:**
+> htop
+
+  ![htop](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/htop1.png)
+  
+  ![htop](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/htop2.png)
+
+<div align="center">
+
+```htop``` digunakan untuk memantau proses sistem dan mengelola proses.
 </div>
 <br>
 <br>
