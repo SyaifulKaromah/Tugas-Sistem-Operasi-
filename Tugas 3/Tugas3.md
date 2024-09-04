@@ -508,20 +508,334 @@ command ```Exit``` digunakan untuk menutup terminal
 <br>
 <br>
 
-### 30. htop
+### 30. du
 **Cara Penggunaan:**
-> htop 
+> du [opsi] [nama_direktori] 
 
 **Contoh Penggunaan:**
-> htop
+- > du
 
-  ![htop](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/htop1.png)
+  ![du](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/du.png)
+
+- > du -sh \Hello
+
+  ![du -sh](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/du2.png)
   
-  ![htop](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/htop2.png)
-
 <div align="center">
 
-```htop``` digunakan untuk memantau proses sistem dan mengelola proses.
+```du``` digunakan untuk menampilkan penggunaan disk suatu direktori.
 </div>
 <br>
 <br>
+
+### 31. hostname
+**Cara Penggunaan:**
+> hostname 
+
+**Contoh Penggunaan:**
+> hostname
+
+  ![hostname](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/du.png)
+
+<div align="center">
+
+```hostname``` digunakan untuk menampilkan nama host sistem.
+</div>
+<br>
+<br>
+
+### 32. ifconfig
+**Cara Penggunaan:**
+> ifconfig [opsi]
+
+**Contoh Penggunaan:**
+> ifconfig
+
+  ![ifconfig](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/ifconfig.png)
+
+<div align="center">
+
+```ifconfig``` digunakan untuk menampilkan konfiguasi antarmuka jaringan.
+</div>
+<br>
+<br>
+
+### 33. sudo apt
+**Cara Penggunaan:**
+> sudo apt [opsi] [perintah]
+
+**Contoh Penggunaan:**
+- > sudo apt install net-tools
+
+    ![sudo apt install](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/install_net_tools.png)
+
+- > sudo apt update
+
+    ![sudo apt update](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/sudo_apt_update.png)
+
+- > sudo apt upgrade
+
+    ![sudo apt upgrade](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/sudo_apt_upgrade.png)
+
+<div align="center">
+
+```sudo apt``` digunakan untuk melakukan eksekusi root yang berurusan dengan sistem paket.
+</div>
+<br>
+<br>
+
+### 34. kill
+**Cara Penggunaan:**
+> kill [Nomor_ID_Proses/PID]
+
+**Contoh Penggunaan:**
+> kill 2788
+
+  ![kill](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/kill.png)
+
+<div align="center">
+
+```kill``` digunakan untuk menghentikan proses yang sedang berjalan.
+</div>
+<br>
+<br>
+
+### 35. locate
+**Cara Penggunaan:**
+> locate [opsi] [nama_file]
+
+**Contoh Penggunaan:**
+> locate -l realme.md
+
+  ![locate](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/locate.png)
+
+<div align="center">
+
+```lcoate``` digunakan untuk mencari file atau direktori berdasarkan nama.
+</div>
+<br>
+<br>
+
+### 36. netstat
+**Cara Penggunaan:**
+> netstat [opsi]
+
+**Contoh Penggunaan:**
+> netstat
+
+  ![netstat](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/netstat.png)
+
+<div align="center">
+
+```netstat``` digunakan untuk menampilkan informasi tentang koneksi jaringan, routing tabel, dan statistik antarmuka.
+</div>
+<br>
+<br>
+
+### 37. nslookup
+**Cara Penggunaan:**
+> nslookup [domain]
+
+**Contoh Penggunaan:**
+> nslookup google.com
+
+  ![nslookup](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/nslookup2.png)
+
+<div align="center">
+
+```nslookup``` digunakan untuk mengambil informasi DNS tentang domain tertentu.
+<br>
+<br>
+
+### 38. ping
+**Cara Penggunaan:**
+> ping [opsi] [domain/IP_Address]
+
+**Contoh Penggunaan:**
+> ping 8.8.8.8
+
+  ![ping](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/ping.png)
+
+<div align="center">
+
+```ping``` digunakan untuk mengirimkan request ke host tertentu.
+<br>
+<br>
+
+### 39. ps
+**Cara Penggunaan:**
+> ps [opsi] 
+
+**Contoh Penggunaan:**
+> ps aux
+
+  ![ps](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/ps.png)
+
+<div align="center">
+
+```ps``` digunakan untuk menampilkan informasi proses yang sdang berjalan.
+<br>
+<br>
+
+### 40. pwd
+**Cara Penggunaan:**
+> pwd
+
+**Contoh Penggunaan:**
+> pwd
+
+  ![pwd](hhttps://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/pwd.png)
+
+<div align="center">
+
+```pwd``` digunakan untuk menampilkan direktori kerja saat ini.
+<br>
+<br>
+
+### 41. pwd
+**Cara Penggunaan:**
+> pwd
+
+**Contoh Penggunaan:**
+> pwd
+
+  ![pwd](hhttps://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/pwd.png)
+
+<div align="center">
+
+```pwd``` digunakan untuk menampilkan direktori kerja saat ini.
+<br>
+<br>
+
+### 42. free
+**Cara Penggunaan:**
+> free [opsi]
+
+**Contoh Penggunaan:**
+> free
+
+  ![free](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/free.png)
+
+<div align="center">
+
+```free``` digunakan untuk menampilkan informasi tentang memory dan swap dalam kibibyte (KiB).
+<br>
+<br>
+
+### 43. journalctl
+**Cara Penggunaan:**
+> journalctl [opsi] [service]
+
+**Contoh Penggunaan:**
+> journalctl -u NetworkManager-wait-online.service
+
+  ![journalctl](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/journalctl.png)
+
+<div align="center">
+
+```journalctl``` digunakan untuk menampilkan log sistem menggunakan jurnal sistem systemd.
+<br>
+<br>
+
+### 44. times
+**Cara Penggunaan:**
+> times
+
+**Contoh Penggunaan:**
+> times
+
+  ![times](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/times.png)
+
+<div align="center">
+
+```times``` digunakan untuk menampilkan ringkasan waktu secara real-time dan waktu user CPU, system CPU.
+<br>
+<br>
+
+### 45. top
+**Cara Penggunaan:**
+> top
+
+**Contoh Penggunaan:**
+> top
+
+  ![top](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/top2.png)
+
+<div align="center">
+
+```top``` digunakan untuk menunjukkan kinerja dan statistik penggunaan server kamu.
+<br>
+<br>
+
+### 46. uname
+**Cara Penggunaan:**
+> uname [ospi]
+
+**Contoh Penggunaan:**
+> uname
+
+  ![uname](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/uname.png)
+
+<div align="center">
+
+```uname``` digunakan untuk menampilkan informasi tentang sistem operasi
+<br>
+<br>
+
+### 47. alias
+**Cara Penggunaan:**
+> alias
+
+**Contoh Penggunaan:**
+> alias
+
+  ![alias](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/alias.png)
+
+<div align="center">
+
+```alias``` digunakan untuk menambah atau menampilkan alias dari perintah
+<br>
+<br>
+
+### 48. crontab
+**Cara Penggunaan:**
+> crontab [opsi]
+
+**Contoh Penggunaan:**
+> crontab -e
+
+  ![crontab](https://github.com/SyaifulKaromah/foto-repo/blob/main/tugas2/crontab_-e.png)
+
+<div align="center">
+
+```crontab``` digunakan untuk mengatur tugas tugas terjadwal
+<br>
+<br>
+
+### 49. curl
+**Cara Penggunaan:**
+> curl [opsi] [URL]
+
+**Contoh Penggunaan:**
+> curl google.com
+
+  ![curl](hhttps://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/curl.png)
+
+<div align="center">
+
+```curl``` digunakan untuk mendownload atau mengirim data dengan URL
+<br>
+<br>
+
+### 50. file
+**Cara Penggunaan:**
+> file [namafile]
+
+**Contoh Penggunaan:**
+> file text.txt
+
+  ![file](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/file.png)
+
+<div align="center">
+
+```file``` digunakan untuk menampilkan jenis file
