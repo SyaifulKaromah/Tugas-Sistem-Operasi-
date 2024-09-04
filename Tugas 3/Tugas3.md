@@ -303,6 +303,23 @@ command ```Exit``` digunakan untuk menutup terminal
 <br>
 <br>
 
+### 17. passwd 
+**Cara Penggunaan:**
+> paswd
+
+**Contoh Penggunaan:**
+> passwd
+
+  ![passwd](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/passwd.png)
+
+<div align="center">
+
+```passwd``` digunakan untuk mengganti password host
+
+</div>
+<br>
+<br>
+
 ### 18. nano 
 **Cara Penggunaan:**
 > nano [nama_file]
