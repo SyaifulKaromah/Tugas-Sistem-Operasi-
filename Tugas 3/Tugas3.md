@@ -10,9 +10,11 @@
 
 <div align="Center">
 
-## 50 Command Line Linux
+## 50 COMMAND LINE UBUNTU
 
 </div>
+
+## DAFTAR ISI
 
 ### 1. Shutdown (Matikan atau Reboot)
 **Cara Penggunaan:**
