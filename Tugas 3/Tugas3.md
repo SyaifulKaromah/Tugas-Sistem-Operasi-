@@ -14,7 +14,7 @@
 
 </div>
 
-## DAFTAR ISI
+### DAFTAR ISI
 
 ### 1. Shutdown (Matikan atau Reboot)
 **Cara Penggunaan:**
