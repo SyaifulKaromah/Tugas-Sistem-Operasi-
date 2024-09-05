@@ -30,7 +30,7 @@
 9. [ls (List)](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%203/Tugas3.md#9-ls-list)
 10. [mkdir (Make Directory)](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%203/Tugas3.md#10-mkdir-make-directory)
 11. [cd](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%203/Tugas3.md#11-cd)
-12. [Touch](#12.-Touch)
+12. [Touch](#12-Touch)
 13. [mv (move)](#13.-mv-(move))
 14. [cat](#14.-cat)
 15. [Head](#15.-Head)
