@@ -908,7 +908,7 @@ command ```Exit``` digunakan untuk menutup terminal
 **Contoh Penggunaan:**
 > curl google.com
 
-  ![curl](hhttps://github.com/SyaifulKaromah/foto-repo/blob/main/tugas2/curl.png)
+  ![curl](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/curl.png)
 
 <div align="center">
 
