@@ -19,7 +19,7 @@
 <details>
   <summary>Show more</summary>
 
-1. [Shutdown (Matikan atau Reboot)](#1.-Shutdown-(Matikan-atau-Reboot))
+1. [Shutdown (Matikan atau Reboot)](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%203/Tugas3.md#1-shutdown-matikan-atau-reboot)
 2. [Reboot (Mulai Ulang)](#2.-Reboot-(Mulai-Ulang))
 3. [Poweroff (Matikan)](#3.-Poweroff-(Matikan))
 4. [Help (Bantuan)](#4.-Help-(Bantuan))
