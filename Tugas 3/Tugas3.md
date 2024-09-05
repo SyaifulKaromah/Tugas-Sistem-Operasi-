@@ -14,66 +14,6 @@
 
 </div>
 
-### Daftar Isi
-
-<details>
-  <summary>Show more</summary>
-
-1. [Shutdown (Matikan atau Reboot)](#1.-Shutdown-(Matikan-atau-Reboot))
-2. [Reboot (Mulai Ulang)](#Reboot-(Mulai-Ulang))
-3. [Poweroff (Matikan)](#Poweroff-(Matikan))
-4. [Help (Bantuan)](#Help-Bantuan)
-5. [Man (Manual/Panduan)](#Man-(Manual/Panduan))
-6. [Clear (Bersihkan Terminal)](#Clear-(Bersihkan-Terminal))
-7. [History (Menampilkan History)](#History-(Menampilkan-History))
-8. [Exit (Menutup Terminal)](#Exit-(Menutup-Terminal))
-9. [ls (List)](#ls-(List))
-10. [mkdir (Make Directory)](#mkdir-(Make-Directory))
-11. [cd](#cd)
-12. [Touch](#Touch)
-13. [mv (move)](#mv-(move))
-14. [cat](#cat)
-15. [Head](#Head)
-16. [tail](#tail)
-17. [passwd](#passwd)
-18. [nano](#nano)
-19. [cp](#cp)
-20. [rm](#rm)
-21. [wc](#wc)
-22. [wget (web get)](#wget-(web-get))
-23. [grep](#grep)
-24. [tar](#tar)
-25. [echo](#echo)
-26. [date](#date)
-27. [df](#df)
-28. [dig](#dig)
-29. [htop](#htop)
-30. [du](#du)
-31. [hostname](#hostname)
-32. [ifconfig](#ifconfig)
-33. [sudo apt](#sudo-apt)
-34. [kill](#kill)
-35. [locate](#locate)
-36. [netstat](#netstat)
-37. [nslookup](#nslookup)
-38. [ping](#ping)
-39. [ps](#ps)
-40. [locale](#locale)
-41. [pwd](#pwd)
-42. [free](#free)
-43. [journalctl](#journalctl)
-44. [times](#times)
-45. [top](#top)
-46. [uname](#uname)
-47. [alias](#alias)
-48. [crontab](#crontab)
-49. [curl](#curl)
-50. [file](#file)
-
-<br>
-</details>
-<br>
-
 ### 1. Shutdown (Matikan atau Reboot)
 **Cara Penggunaan:**
 > shutdown [opsi]
