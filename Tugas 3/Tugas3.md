@@ -18,56 +18,58 @@
 <details>
   <summary>Show more</summary>
 
-1. [Shutdown (Matikan atau Reboot)](#Shutdown-(Matikan-atau-Reboot))
-2. [Reboot (Mulai Ulang)](#Reboot-(Mulai-Ulang))
-3. [Poweroff (Matikan)](#Poweroff-(Matikan))
-4. [Help (Bantuan)](#Help-Bantuan)
-5. [Man (Manual/Panduan)](#Man-(Manual/Panduan))
-6. [Clear (Bersihkan Terminal)](#Clear-(Bersihkan-Terminal))
-7. [History (Menampilkan History)](#History-(Menampilkan-History))
-8. [Exit (Menutup Terminal)](#Exit-(Menutup-Terminal))
-9. [ls (List)](#ls-(List))
-10. [mkdir (Make Directory)](#mkdir-(Make-Directory))
-11. [cd](#cd)
-12. [Touch](#Touch)
-13. [mv (move)](#mv-(move))
-14. [cat](#cat)
-15. [Head](#Head)
-16. [tail](#tail)
-17. [passwd](#passwd)
-18. [nano](#nano)
-19. [cp](#cp)
-20. [rm](#rm)
-21. [wc](#wc)
-22. [wget (web get)](#wget-(web-get))
-23. [grep](#grep)
-24. [tar](#tar)
-25. [echo](#echo)
-26. [date](#date)
-27. [df](#df)
-28. [dig](#dig)
-29. [htop](#htop)
-30. [du](#du)
-31. [hostname](#hostname)
-32. [ifconfig](#ifconfig)
-33. [sudo apt](#sudo-apt)
-34. [kill](#kill)
-35. [locate](#locate)
-36. [netstat](#netstat)
-37. [nslookup](#nslookup)
-38. [ping](#ping)
-39. [ps](#ps)
-40. [locale](#locale)
-41. [pwd](#pwd)
-42. [free](#free)
-43. [journalctl](#journalctl)
-44. [times](#times)
-45. [top](#top)
-46. [uname](#uname)
-47. [alias](#alias)
-48. [crontab](#crontab)
-49. [curl](#curl)
-50. [file](#file)
+<ul>
+    <li><a href="#Shutdown-(Matikan-atau-Reboot)">Shutdown (Matikan atau Reboot)</a></li>
+    <li><a href="#Reboot-(Mulai-Ulang)">Reboot (Mulai Ulang)</a></li>
+    <li><a href="#Poweroff-(Matikan)">Poweroff (Matikan)</a></li>
+    <li><a href="#Help-Bantuan">Help (Bantuan)</a></li>
+    <li><a href="#Man-(Manual/Panduan)">Man (Manual/Panduan)</a></li>
+    <li><a href="#Clear-(Bersihkan-Terminal)">Clear (Bersihkan Terminal)</a></li>
+    <li><a href="#History-(Menampilkan-History)">History (Menampilkan History)</a></li>
+    <li><a href="#Exit-(Menutup-Terminal)">Exit (Menutup Terminal)</a></li>
+    <li><a href="#ls-(List)">ls (List)</a></li>
+    <li><a href="#mkdir-(Make-Directory)">mkdir (Make Directory)</a></li>
+    <li><a href="#cd">cd</a></li>
+    <li><a href="#Touch">Touch</a></li>
+    <li><a href="#mv-(move)">mv (move)</a></li>
+    <li><a href="#cat">cat</a></li>
+    <li><a href="#Head">Head</a></li>
+    <li><a href="#tail">tail</a></li>
+    <li><a href="#passwd">passwd</a></li>
+    <li><a href="#nano">nano</a></li>
+    <li><a href="#cp">cp</a></li>
+    <li><a href="#rm">rm</a></li>
+    <li><a href="#wc">wc</a></li>
+    <li><a href="#wget-(web-get)">wget (web get)</a></li>
+    <li><a href="#grep">grep</a></li>
+    <li><a href="#tar">tar</a></li>
+    <li><a href="#echo">echo</a></li>
+    <li><a href="#date">date</a></li>
+    <li><a href="#df">df</a></li>
+    <li><a href="#dig">dig</a></li>
+    <li><a href="#htop">htop</a></li>
+    <li><a href="#du">du</a></li>
+    <li><a href="#hostname">hostname</a></li>
+    <li><a href="#ifconfig">ifconfig</a></li>
+    <li><a href="#sudo-apt">sudo apt</a></li>
+    <li><a href="#kill">kill</a></li>
+    <li><a href="#locate">locate</a></li>
+    <li><a href="#netstat">netstat</a></li>
+    <li><a href="#nslookup">nslookup</a></li>
+    <li><a href="#ping">ping</a></li>
+    <li><a href="#ps">ps</a></li>
+    <li><a href="#locale">locale</a></li>
+    <li><a href="#pwd">pwd</a></li>
+    <li><a href="#free">free</a></li>
+    <li><a href="#journalctl">journalctl</a></li>
+    <li><a href="#times">times</a></li>
+    <li><a href="#top">top</a></li>
+    <li><a href="#uname">uname</a></li>
+    <li><a href="#alias">alias</a></li>
+    <li><a href="#crontab">crontab</a></li>
+    <li><a href="#curl">curl</a></li>
+    <li><a href="#file">file</a></li>
+  </ul>
 
 <br>
 </details>
