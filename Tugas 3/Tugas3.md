@@ -15,8 +15,6 @@
 </div>
 
 ### Daftar Isi
-<details>
-  <summary>Show more</summary>
 
 <details>
   <summary>Show more</summary>
@@ -71,9 +69,6 @@
 48. [crontab](#crontab)
 49. [curl](#curl)
 50. [file](#file)
-
-<br>
-</details>
 
 <br>
 </details>
