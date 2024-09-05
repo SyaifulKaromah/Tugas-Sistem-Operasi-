@@ -28,7 +28,7 @@
 7. [History (Menampilkan History)](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%203/Tugas3.md#7-history-menampilkan-history)
 8. [Exit (Menutup Terminal)](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%203/Tugas3.md#8-exit-menutup-terminal)
 9. [ls (List)](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%203/Tugas3.md#9-ls-list)
-10. [mkdir (Make Directory)]([#10.-mkdir-(Make-Directory)](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%203/Tugas3.md#10-mkdir-make-directory))
+10. [mkdir (Make Directory)](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%203/Tugas3.md#10-mkdir-make-directory)
 11. [cd](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%203/Tugas3.md#11-cd)
 12. [Touch](#12.-Touch)
 13. [mv (move)](#13.-mv-(move))
