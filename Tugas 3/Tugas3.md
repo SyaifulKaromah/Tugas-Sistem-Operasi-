@@ -19,7 +19,7 @@
   <summary>Show more</summary>
 
 <ul>
-    <li><a href="#Shutdown (Matikan atau Reboot)">Shutdown (Matikan atau Reboot)</a></li>
+    <li><a href="#1. Shutdown (Matikan atau Reboot)">Shutdown (Matikan atau Reboot)</a></li>
     <li><a href="#Reboot-(Mulai-Ulang)">Reboot (Mulai Ulang)</a></li>
     <li><a href="#Poweroff-(Matikan)">Poweroff (Matikan)</a></li>
     <li><a href="#Help-Bantuan">Help (Bantuan)</a></li>
