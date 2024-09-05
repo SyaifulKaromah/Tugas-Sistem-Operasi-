@@ -69,8 +69,8 @@
 49. [curl](#curl)
 50. [file](#file)
 
-</details>
 <br>
+</details>
 <br>
 
 ### 1. Shutdown (Matikan atau Reboot)
