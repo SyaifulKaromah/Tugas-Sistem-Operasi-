@@ -1,4 +1,4 @@
-[←    BACK](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/8d6109ee4ac0a66b0f3c1e32776c9dc78248a35c/README.md)
+[←    BACK](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/README.md)
 # Tugas 3 Command Line
 
 ## Informasi Mahasiswa
