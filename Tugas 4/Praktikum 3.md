@@ -1,4 +1,4 @@
-[←    BACK](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/f1cf9ce4da848d8d53c937eb6fc475672fc11b8f/README.md)
+[←    BACK](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/README.md)
 
 # Tugas 4
 ## Informasi Mahasiswa
