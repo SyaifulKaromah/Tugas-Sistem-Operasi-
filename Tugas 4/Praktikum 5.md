@@ -60,8 +60,8 @@
 
   ![tugas_4-no3a](https://github.com/user-attachments/assets/6778ec2b-2a68-4c5c-88e2-970ac76aed88)
 
-- keluar dari nano "CTRL + X"
-- kemudian Y dan enter
+- keluar dari nano "**CTRL + X**"
+- kemudian **Y** dan **enter**
 - keluar dari direktori
   > cd ..
 - lalu cek
@@ -69,7 +69,7 @@
   
     ![tugas_4-no3b](https://github.com/user-attachments/assets/149cf077-a539-4a8f-9a74-ed724dbb78d8)
 
-- Salin file dataku.txt pada **Januari** ke **Februari** dan **Maret**
+- Salin file **dataku.txt** pada **Januari** ke **Februari** dan **Maret**
   > for dest in latihan5/*; do cp latihan5/Januari/dataku.txt "$dest/"; done
   > tree
 
