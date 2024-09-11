@@ -43,7 +43,7 @@
 ### Jawab:
 - Terlebih dahulu buat folder **latihan5**
   > mkdir latihan5
-- Masuk direktoi latihan5
+- Masuk direktori latihan5
   > cd latihan5
 - Buat folder **Januari**, **Februari** dan **Maret** sekaligus
   > mkdir Januari Februari Maret
