@@ -139,13 +139,27 @@
 <br>
 
 ## Soal 9
-**Modifikasi umask dari file dataku pada sub direktori Januari menjadi 027 dan berapakah nilai default-Nya?
+**Modifikasi umask dari file dataku pada sub direktori Januari menjadi 027 dan berapakah nilai default-Nya?**
 ### Jawab:
-- Berikut ini adalah kode dan penjelasan untuk soal ini
+- cek nilai default umask
+  > umask
+- umask default adalah **002**
+- set nilai umask
+  > umask 027
+  
+  ![tugas_4-no9](https://github.com/user-attachments/assets/44696115-6d08-4a0c-a69b-a6eed9f9cd7f)
 
-  ![tugas_4-no9](https://github.com/user-attachments/assets/0681c8bb-350e-4e6d-9ecf-5f1fc8d3b1cb)
+- Jika nilai umask adalah 027, maka izin default untuk file baru akan menjadi 750. Berikut adalah perhitungannya:
+  - Izin default untuk direktori: 777
+  - Umask: 027
+  - Izin akhir: 777 - 027 = 750
+- ubah izin **dataku.txt** menjadi 750
+  > chmod 750 dataku.txt
+  
+    ![tugas_4-no9b](https://github.com/user-attachments/assets/b56ee30a-851f-4d31-a750-7eeec84f01cb)
 
-- Nilai Default pada perizinan linux adalah **666** untuk **file** dan **777** untuk **direktori**
+- jadi, izin semula adalah **user** bisa **membaca** dan **menulis**, **group** dan **others** hanya bisa **membaca** atau **622**, setelah diberikan **umask** **027**, mendapatkan perubahan izin menjadi **user** bisa **membaca**, **menulis** dan **eksekusi**, **group** hanya bisa **membaca** dan **mengeksekusi**, sedangkan **others** **tidak memilki izin** apapun atau **750** 
+
 <br>
 
 ## Soal 10
