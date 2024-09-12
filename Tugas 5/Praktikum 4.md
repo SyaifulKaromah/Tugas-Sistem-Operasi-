@@ -137,7 +137,7 @@
      - sort: Mengurutkan 5 baris tersebut secara alfabetis.
 
 ## Soal 9
-**Gunakan perintah $ who | cat | cat | sort | pr | head | cat | tail dan perhatikan hasilnya. **
+**Gunakan perintah $ who | cat | cat | sort | pr | head | cat | tail dan perhatikan hasilnya.**
 ### Jawaban
 - Gunakan perintah tersebut
   > who | cat | cat | sort | pr | head | cat | tail
