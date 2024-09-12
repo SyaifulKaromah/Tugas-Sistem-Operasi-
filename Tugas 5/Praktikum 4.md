@@ -16,7 +16,7 @@
 
 ## Soal 1
 **Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru.**
-### Jawaban
+### Jawab:
 - Melihat daftar secara lengkap pada **direktori aktif** dan simpan ke **file_baru**
   > ls -l > file_baru
   
@@ -26,7 +26,7 @@
 
 ## Soal 2
 **Lihat daftar secara lengkap pada direktori /etc/passwd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya.**
-### Jawaban
+### Jawab:
 - Melihat daftar secara lengkap pada direktori **/etc/passwd**, dan simpan ke **file_baru** tanpa menghapus file baru sebelumnya.
   > ls -l /etc/passwd >> file_baru
   
@@ -36,7 +36,7 @@
 
 ## Soal 3
 **Urutkan file baru dengan cara membelokkan standard input.**
-### Jawaban
+### Jawab:
 - Mengurutkan **file_baru**
   > sort < file_baru
   
@@ -46,7 +46,7 @@
 
 ## Soal 4
 **Urutkan file baru dengan cara membelokkan standard input dan standard output ke file baru.urut.**
-### Jawaban
+### Jawab:
 - Mengurutkan **file_baru** dan simpan ke **file_baru.urut**
   > sort < file_baru > file_baru.urut
  
@@ -56,7 +56,7 @@
 
 ## Soal 5
 **Buatlah direktori latihan6 sebanyak 2 kali dan belokkan standard error ke file rmdirerror.txt.**
-### Jawaban
+### Jawab:
 - Membuat direktori **latihan6** 2 kali dan simpan pesan eror di **rmdirerror.txt**
   > mkdir latihan6 2> rmdirerror.txt
   
@@ -75,7 +75,7 @@
   - **Palembang**  
   - **Lampung**\
 **Dengan menggunakan notasi here document (<@@@ …@@@)**
-### Jawaban
+### Jawab:
 - Urutkan dengan notasi here document
   > sort <<@@@
   
@@ -99,7 +99,7 @@
 
 ## Soal 7
 **Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke file baru.**
-### Jawaban
+### Jawab:
 - Menghitung jumlah baris, kata dan karakter dari **file_baru.urut** dan simpan/tambahkan ke **file_baru**
   > wc file_baru.urut >> file_baru
 
@@ -112,7 +112,7 @@
 **$ cat /etc/passwd | sort | pr –n | grep tty03**\
 **$ find /etc –print | head**\
 **$ head /etc/passwd | tail –5 | sort**
-### Jawaban
+### Jawab:
 - Gunakan perintah tersebut
   > cat /etc/passwd | sort | pr –n | grep tty03
   
@@ -138,7 +138,7 @@
 
 ## Soal 9
 **Gunakan perintah $ who | cat | cat | sort | pr | head | cat | tail dan perhatikan hasilnya.**
-### Jawaban
+### Jawab:
 - Gunakan perintah tersebut
   > who | cat | cat | sort | pr | head | cat | tail
 
