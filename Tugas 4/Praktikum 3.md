@@ -73,6 +73,8 @@
 
 - Salin file **dataku.txt** pada **Januari** ke **Februari** dan **Maret**
   > for dest in latihan5/*; do cp latihan5/Januari/dataku.txt "$dest/"; done
+  
+- lalu cek
   > tree
 
     ![tugas_4-no3c](https://github.com/user-attachments/assets/425313b8-15f2-46a2-adc2-6dc65d4a744d)
