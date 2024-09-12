@@ -25,9 +25,9 @@
 <br>
 
 ## Soal 2
-**Lihat daftar secara lengkap pada direktori /etc/passwd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya.**
+**Lihat daftar secara lengkap pada direktori /etc/passwd, belokkan tampilan standard output ke file baru tanpa menghapus file_baru sebelumnya.**
 ### Jawab:
-- Melihat daftar secara lengkap pada direktori **/etc/passwd**, dan simpan ke **file_baru** tanpa menghapus file baru sebelumnya.
+- Melihat daftar secara lengkap pada direktori **/etc/passwd**, dan simpan ke **file_baru** tanpa menghapus **file_baru** sebelumnya.
   > ls -l /etc/passwd >> file_baru
   
     ![latihan6_no2](https://github.com/user-attachments/assets/19edc6a7-4863-41f1-aa69-e2b9f4daac0b)
