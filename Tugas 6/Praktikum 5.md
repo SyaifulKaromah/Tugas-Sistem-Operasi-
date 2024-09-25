@@ -96,12 +96,105 @@ kemudian gunakan opsi – sebagai berikut :
 Jelaskan perbedaan kedua utilitas tersebut.
 
 **Jawab:**
-- 
-![1c.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/1c.1.png)
-![1c.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/1c.2.png)
-![2a.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/2a.1.png)
-![2a.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/2a.2.png)
-![2b.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/2b.1.png)
+**Metode tanpa "-":**
+- cek posisi
+  > pwd
+
+- switch user
+  > su mahasiswa
+  
+- cek posisi
+  > pwd
+
+- exit
+  > exit
+
+    ![1c.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/1c.1.png)
+
+**Metode dengan "-"**
+- cek posisi
+  > pwd
+
+- switch user
+  > su - mahasiswa
+  
+- cek posisi
+  > pwd
+
+- exit
+  > exit
+
+    ![1c.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/1c.2.png)
+
+**Perbedaan kedua utilitas**
+- su target:
+  - Menggunakan perintah ini akan mengganti pengguna saat ini ke pengguna target, tetapi tetap berada di shell saat ini. Ini berarti variabel lingkungan (environment variables) seperti PATH tidak akan berubah.
+  - Contoh: su john akan mengganti pengguna saat ini ke john, tetapi tetap menggunakan shell dan lingkungan yang sama.
+- su - target:
+  - Menambahkan tanda minus (-) setelah su akan mengganti pengguna saat ini ke pengguna target dan juga memuat lingkungan pengguna baru tersebut. Ini berarti variabel lingkungan akan diatur ulang sesuai dengan pengguna baru.
+  - Contoh: su - john akan mengganti pengguna saat ini ke john dan memuat lingkungan pengguna john, seperti jika pengguna john baru saja login.
+
+<br>
+<br>
+
+## Soal 2
+2. Prompt String (PS)  
+### Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export diperlukan dengan 
+parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua shell  
+  > PS1=‟> „  
+  
+  > export PS1
+
+**Jawab:**
+- Edit file ".bash_profile"
+  > nano .bash_profile
+
+  ![2a.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/2a.1.png)
+
+- Tulis dengan:
+  > PS1=‟> „  
+  
+  > export PS1
+    
+    ![2a.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/2a.2.png)
+
+### b.  Eksperimen hasil PS1 : 
+  > $ PS1=“\! > “  
+
+  > 69 > PS1=”\d > “  
+
+  > Mon Sep 23 > PS1=”\t > “  
+
+  > 10:10:20 > PS1=”Saya=\u > “  
+  
+  > Saya=mahasiswa > PS1=”\w >”  
+
+  > ~ > PS1=\h >” 
+
+**Jawab:**
+- Tampilkan nomor perintah dari history
+  > PS1=“\! > “
+
+- Tmapilkan tanggal
+  > PS1=”\d > “
+
+- Tampilkan waktu
+  > PS1=”\t > “
+
+- Tampilkan username
+  > PS1=”Saya=\u > “
+
+- Tampilkan direktori saat ini
+  > PS1=”\w >”
+
+- tampilkan nama host
+  > PS1=\h >”
+
+    ![2b.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/2b.1.png)
+
+<br>
+<br>
+
 ![3a.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/3a.1.png)
 ![3a.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/3a.2.png)
 ![3a.3](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/3a.3.png)
