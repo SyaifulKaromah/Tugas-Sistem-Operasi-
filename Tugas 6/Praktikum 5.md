@@ -93,6 +93,7 @@ kemudian gunakan opsi – sebagai berikut :
   > $ su – mahasiswa  
   
   > $ exit  
+
 Jelaskan perbedaan kedua utilitas tersebut.
 
 **Jawab:**
@@ -138,7 +139,7 @@ Jelaskan perbedaan kedua utilitas tersebut.
 <br>
 
 ## Soal 2
-2. Prompt String (PS)  
+**Prompt String (PS)**  
 ### Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export diperlukan dengan 
 parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua shell  
   > PS1=‟> „  
@@ -195,9 +196,39 @@ parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua
 <br>
 <br>
 
-![3a.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/3a.1.png)
-![3a.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/3a.2.png)
-![3a.3](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/3a.3.png)
+## Soal 3
+**Logout**  
+### Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum eksekusi logout  
+  > Echo “Terima kasih atas sesi yang diberikan”  
+
+  > Sleep 5  
+
+  > clear  
+
+**Jawab:**
+- edit file ".bash_logout"
+  > nano .bash_logout
+
+- ketik:
+  > Echo “Terima kasih atas sesi yang diberikan”  
+
+  > Sleep 5  
+
+  > clear
+  
+    ![3a.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/3a.1.png)
+
+- Uji coba
+  ![3a.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/3a.2.png)
+
+- Setelah 5 detik, terminal akan dibersihkan
+  ![3a.3](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/3a.3.png)
+
+<br>
+<br>
+
+
+
 ![4a.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.1.png)
 ![4a.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.2.png)
 ![4a.3](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.3.png)
