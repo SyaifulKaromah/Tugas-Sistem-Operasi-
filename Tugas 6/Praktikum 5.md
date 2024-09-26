@@ -227,27 +227,257 @@ parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua
 <br>
 <br>
 
+## Soal 4
+**Bash Script**
+### a.  Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing :  
+  - p1.sh  
+    > #! /bin/bash  
+    > echo “Program p1”  
+    > ls –l  
+  - p2.sh  
+    > #! /bin/bash  
+    > echo “Program p2”  
+    > who  
+  - p3.sh  
+    > #! /bin/bash  
+    > echo “Program p3”  
+    > ps x 
+**Jawab:**
+- Buat file "p1.sh
+  > nano p1.sh
 
+    ![4a.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.1.png)
 
-![4a.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.1.png)
-![4a.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.2.png)
-![4a.3](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.3.png)
-![4a.4](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.4.png)
-![4a.5](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.5.png)
-![4a.6](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.6.png)
-![4b.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4b.1.png)
-![4b.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4b.2.png)
-![4b.3](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4b.3.png)
-![4b.4](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4b.4.png)
-![5a.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/5a.1.png)
-![5b.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/5b.1.png)
-![5c.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/5c.1.png)
-![5d.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/5d.1.png)
-![5d.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/5d.2.png)
-![6a.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6a.1.png)
-![6b.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6b.1.png)
-![6b.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6b.2ctrl%2Bp.png)
-![6b.3](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6b.3ctrl%2Bn.png)
-![6d.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6d.1.png)
-![6d.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6d.2.png)
+- Ketik dengan:
+  > #! /bin/bash  
+  
+  > echo “Program p1”  
+  
+  > ls –l
+
+    ![4a.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.2.png)
+
+- Buat file "p2.sh
+  > nano p2.sh
+  
+    ![4a.3](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.3.png)
+
+- Ketik dengan:
+  > #! /bin/bash  
+  
+  > echo “Program p1”  
+  
+  > who
+    
+    ![4a.4](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.4.png)
+
+- Buat file "p3.sh
+  > nano p3.sh
+  
+    ![4a.5](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.5.png)
+
+- Ketik dengan:
+  > #! /bin/bash  
+  
+  > echo “Program p1”  
+  
+  > who
+  
+    ![4a.6](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4a.6.png)
+
+<br>
+
+### b.  Jalankan script tersebut sebagai berikut :  
+  > $  ./p1.sh ; ./p3.sh ; ./p2.sh  
+  > $  ./p1.sh &  
+  > $  ./p1.sh $ ./p2.sh & ./p3.sh &  
+  > $  ( ./p1.sh ; ./p3.sh ) & 
+
+**Jawab:**
+- Jalankan script pertama:
+  > ./p1.sh ; ./p3.sh ; ./p2.sh
+  
+    ![4b.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4b.1.png)
+
+- Jalankan script kedua:
+  > ./p1.sh &
+  
+    ![4b.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4b.2.png)
+
+- Jalankan script ketiga:
+  > ./p1.sh $ ./p2.sh & ./p3.sh &
+  
+    ![4b.3](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4b.3.png)
+
+- Jalankan script ketiga:
+  > ./p1.sh $ ./p2.sh & ./p3.sh &
+  
+    ![4b.4](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4b.4.png)
+
+<br>
+<br>
+
+## Soal 5
+**Jobs**
+### a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik, kemudian menyimpan tanggal dan jam pada file hasil.
+  > #!/bin/bash  
+
+  > while [ true ]  
+  
+  > do  
+
+  > date >> hasil  
+
+  > sleep 10  
+  
+  > done
+
+**Jawab:**
+- Buat file baru "pwaktu.sh"
+  > nano pwaktu.sh
+
+- Ketik dengan:
+  > #!/bin/bash  
+
+  > while [ true ]  
+  
+  > do  
+
+  > date >> hasil  
+
+  > sleep 10  
+  
+  > done
+  
+    ![5a.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/5a.1.png)
+
+<br>
+
+### b.  Jalankan sebagai background; kemudian jalankan satu program (utilitas find) di background sebagai berikut :
+  > $ jobs  
+  
+  > $ find / -print > files 2>/dev/null &  
+
+  > $ jobs  
+
+**Jawab:**
+- Jalankan program sebagai background
+  > ./pwaktu.sh &
+
+- Lihat jobs
+  > jobs
+
+- jalankan program find:
+  > find / -print > files 2>/dev/null &
+
+- Lalu lihat jobs:
+  > jobs
+
+    ![5b.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/5b.1.png)
+
+<br>
+
+### c. Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke background  
+  > $ fg %1  
+
+  > $ bg  
+
+**Jawab:**
+- Menjadikan program ke 1 sebagai foreground
+  > fg %1
+
+- Lalu tekan **Ctrl+Z** untuk menghentikan program itu sementara, atau kembali ke background dalam keadaan stopped
+
+- Lalu lanjutkan kembali program yang terhenti sementara tersebut:
+  > bg
+  
+    ![5c.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/5c.1.png)
+
+<br>
+
+### d.  Stop program background dengan utilitas kil
+  > $ ps x  
+  > $ kill [Nomor PID]
+
+**Jawab:**
+- Menampilkan daftar proses yang berjalan
+  > ps x
+  
+    ![5d.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/5d.1.png)
+
+- Menghentikan proses pwaktu.sh
+  > kill  10444
+  
+    ![5d.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/5d.2.png)
+
+<br>
+<br>
+
+## Soal 6
+**History**
+### a. Ganti nilai HISTSIZE dari 1000 menjadi 20  
+  > $ HISTSIZE=20  
+
+  > $ h 
+
+**Jawab:**
+- Ganti nilai Ukuran History:
+  > HISTSIZE=20
+
+- tampilkan history:
+  > history
+  
+    ![6a.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6a.1.png)
+
+<br>
+
+### b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir dilakukan  
+  > $ !-5 
+
+**Jawab:**
+> !-5
+
+  ![6b.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6b.1.png)
+
+<br>
+
+### c. Ulangi instruksi yang terakhir.  Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer  
+  > $ !!
+
+ **Jawab:**
+ - Jalankan perintah !!
+ - > !!
+
+- Tekan **Ctrl+P** untuk mengambil kode sebelumnya
+
+  ![6c.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6c.1ctrl%2Bp.png)
+
+_ Tekan **Ctrl+N** juga untuk mengambil kode, jadi kosong karena kode sebelummya menampilkan HISTSize=20, setelah kode tersbut tidak ada, jadi kosong
+
+![6c.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6c.2ctrl%2Bn.png)
+
+<br>
+
+### d.  Ulangi instruksi pada history bufer nomor 150  
+  > $ !150
+
+**Jawab:**
+- Dikarenakan bufer nomor 150 tidak ada, kita coba untuk mengambil history dengan bufer nomor 866
+  > !866
+  
+    ![6d.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6d.1.png)
+
+- Perintah dari history tersebut akan langsung dijalankan ketika di enter
+  
+  ![6d.2](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6d.2.png)
+
+<br>
+
+### e. Ulangi instruksi dengan prefix “ls”  
+  > $ !ls
+
+**Jawab:**
+- Selain dengan metode sebelumnya, kita juga bisa menggunakan kode berikut untuk mengambil history terakhir, misalkan kita ingin mengambil kode yang berawalan "ls"
+  > !ls
+
 ![6e.1](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/6e.1.png)
