@@ -34,8 +34,6 @@ Mulai program SSh
 
     ![Start](https://github.com/user-attachments/assets/45dc9bc5-ebbe-4ceb-a33c-029c36aa2771)
 
-<br>
-
 Cek status
   - > sudo systemctl status ssh
     
@@ -49,15 +47,10 @@ Cek UFW status
 
     ![UFW Status Inactive](https://github.com/user-attachments/assets/1882b74b-3d6a-4e97-8d76-3bf5942f6b94)
 
-
-<br>
-
 Jika status UFW inactive seperti di kasus ini, maka kita dapat mengaktifkan dengan:
   - > sudo ufw enable
      
     ![UFW Status Active](https://github.com/user-attachments/assets/719657d3-9de9-4bdc-82a4-8274c1a2b053)
-
-<br>
 
 Selanjutnya izinkan lalu lintas SSH
   - > sudo ufw allow ssh
@@ -72,7 +65,6 @@ Sambungkan ke server sendiri dengan user dan ip sendiri
 
     ![syf@192.168.49.179](https://github.com/user-attachments/assets/a35538df-635e-4129-9549-7867c22fc10a)
 
-<br>
 
 Selanjutnya coba untuk menghubungkan kepada komputer lain dengan user mereka dan ip mereka, pastikan dalam satu jaringan yang sama:
   - > ssh anggaa17@192.168.49.129
