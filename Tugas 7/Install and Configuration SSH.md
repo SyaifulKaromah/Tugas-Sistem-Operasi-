@@ -8,7 +8,7 @@
 <br>
 <div align="Center">
   
-## Install dan Configuration SSH
+## INSTALL AND CONFIGURATION SSH
 
 </div>
 
