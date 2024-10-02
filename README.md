@@ -7,3 +7,4 @@
 [```Tugas 4```](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%204/Praktikum%203.md)
 [```Tugas 5```](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%205/Praktikum%204.md)
 [```Tugas 6```](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/Praktikum%205.md)
+[```Tugas 7```](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%207/Install%20and%20Configuration%20SSH.md)
