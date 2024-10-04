@@ -242,6 +242,7 @@ parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua
     > #! /bin/bash  
     > echo “Program p3”  
     > ps x 
+
 **Jawab:**
 - Buat file "p1.sh
   > nano p1.sh
