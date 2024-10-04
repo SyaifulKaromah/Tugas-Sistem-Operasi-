@@ -72,8 +72,6 @@ Selanjutnya coba untuk menghubungkan kepada komputer lain dengan user mereka dan
     ![anggaa17@192.168.49.129](https://github.com/user-attachments/assets/05e44535-099c-4856-85cc-f1f7bde19c23)
 
 ### Configuration SSH
-![Screenshot from 2024-10-04 11-39-57](https://github.com/user-attachments/assets/3832a27c-319e-4948-870f-828a519d1759)
-
 ![Screenshot from 2024-10-04 11-40-21](https://github.com/user-attachments/assets/162d6160-72b2-4b34-9010-bb7a6415b3a2)
 
 ![Screenshot from 2024-10-04 11-41-51](https://github.com/user-attachments/assets/48bda3e9-ace9-451c-ae32-768483677345)
