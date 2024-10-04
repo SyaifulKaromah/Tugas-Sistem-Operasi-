@@ -313,8 +313,8 @@ parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua
   
     ![4b.3](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4b.3.png)
 
-- Jalankan script ketiga:
-  > ./p1.sh $ ./p2.sh & ./p3.sh &
+- Jalankan script keempat:
+  > ( ./p1.sh ; ./p3.sh ) &
   
     ![4b.4](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/Tugas%206/asets/4b.4.png)
 
