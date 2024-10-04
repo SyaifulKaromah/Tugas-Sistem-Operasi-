@@ -289,8 +289,11 @@ parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua
 
 ### b.  Jalankan script tersebut sebagai berikut :  
   > $  ./p1.sh ; ./p3.sh ; ./p2.sh  
+
   > $  ./p1.sh &  
+  
   > $  ./p1.sh $ ./p2.sh & ./p3.sh &  
+  
   > $  ( ./p1.sh ; ./p3.sh ) & 
 
 **Jawab:**
