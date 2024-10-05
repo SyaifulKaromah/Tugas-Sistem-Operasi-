@@ -1,5 +1,3 @@
-Anda benar, saya mohon maaf atas kelalaian saya. Saya akan memformat ulang teks dengan menambahkan tab sebelum blok kode dan gambar. Berikut adalah contoh bagaimana seharusnya terlihat:
-
 [←    BACK](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/README.md)
 
 # Tugas 5
