@@ -76,12 +76,16 @@
 
 ### 1. Shutdown (Matikan atau Reboot)
 **Cara Penggunaan:**
-> shutdown [opsi]
+```bash
+shutdown [opsi]
+```
 
 **Contohh Penggunaan:**
-- > shutdown -r
-
-    ![Shutdown -r](https://github.com/SyaifulKaromah/foto-repo/blob/65d0bcbfa3b719d099ddd5eff37819f8e5d36ea0/tugas2/shutdown_-r.png)
+- Untuk menyalakan ulang komputer:
+  ```bash
+  shutdown -r
+  ```
+  ![Shutdown -r](https://github.com/SyaifulKaromah/foto-repo/blob/65d0bcbfa3b719d099ddd5eff37819f8e5d36ea0/tugas2/shutdown_-r.png)
 
 <div align="center">
 
@@ -90,7 +94,10 @@
 </div>
 <br>
 
-- > shutdown -f
+- Untuk mematikan komputer secara paksa:
+  ```bash
+  shutdown -f
+  ```
 
     ![Shutdown -f](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/shutdown%20-f.png)
 
@@ -104,11 +111,15 @@
 
 ### 2. Reboot (Mulai Ulang)
 **Cara Penggunaan:**
-> reboot
+```bash
+reboot
+```
 
 **Contoh Penggunaan:**
-> reboot
-
+- Menyalakan ulang komputer:
+  ```bash
+  reboot
+  ```
   ![reboot](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/reboot.png)
 
 <div align="center">
@@ -121,11 +132,15 @@ sama seperti **Shutdown -r**, ```Reboot``` juga berfungsi untuk menyalakan ulang
 
 ### 3. Poweroff (Matikan)
 **Cara Penggunaan:**
-> poweroff
+```bash
+poweroff
+```
 
 **Contoh Penggunaan:**
-> poweroff
-
+- Mematikan komputer:
+  ```bash
+  poweroff
+  ```
   ![poweroff](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/poweroff.png)
 
 <div align="center">
@@ -138,11 +153,15 @@ sama seperti **Shutdown -f**, ```Poweroff``` juga berfungsi untuk mematikan komp
 
 ### 4. Help (Bantuan)
 **Cara Penggunaan:**
-> help
+```bash
+help
+```
 
 **Contoh Penggunaan:**
-> help
-
+- Menampilkan bantuan singkat:
+  ```bash
+  help
+  ```
   ![help](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/help.png)
 
 <div align="center">
@@ -155,10 +174,15 @@ command ```Help``` digunakan untuk menampilkan bantuan syntax atas command-comma
 
 ### 5. Man (Manual/Panduan)
 **Cara Penggunaan:**
-> man [command]
+```bash
+man [command]
+```
 
 **Contoh Penggunaan:**
-> man netstat
+- Menampilkan panduan lengkap command:
+  ```bash
+  man netstat
+  ```
 
   ![Man netstat](https://github.com/SyaifulKaromah/foto-repo/blob/3cec6c8b142a3d00eb5b3168b40600e5bb8a2548/tugas2/man.png)
 
@@ -174,10 +198,15 @@ command ```Help``` digunakan untuk menampilkan bantuan syntax atas command-comma
 
 ### 6. Clear (Bersihkan Terminal)
 **Cara Penggunaan:**
-> clear
+```bash
+clear
+```
 
 **Contoh Penggunaan:**
-> clear
+- Membersihkan terminal:
+  ```bash
+  clear
+  ```
 
   ![clear](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/clear.png)
 
@@ -193,10 +222,15 @@ command ```Help``` digunakan untuk menampilkan bantuan syntax atas command-comma
 
 ### 7. History (Menampilkan History)
 **Cara Penggunaan:**
-> history
+```bash
+history
+```
 
-**Contoh Penggunaaan:**
-> history
+**Contoh Penggunaan:**
+- Menampilkan riwayat perintah yang telah dijalankan:
+  ```bash
+  history
+  ```
 
   ![History](https://github.com/SyaifulKaromah/foto-repo/blob/019b7a29c9bcac117024d9f3cab29e041dda69c1/tugas2/history.png)
 
@@ -210,10 +244,15 @@ command ```Help``` digunakan untuk menampilkan bantuan syntax atas command-comma
 
 ### 8. Exit (Menutup Terminal)
 **Cara Penggunaan:**
-> exit
+```bash
+exit
+```
 
 **Contoh Penggunaan:**
-> exit
+- Menutup terminal:
+  ```bash
+  exit
+  ```
 
   ![exit](https://github.com/SyaifulKaromah/foto-repo/blob/019b7a29c9bcac117024d9f3cab29e041dda69c1/tugas2/exit.png)
 
@@ -227,11 +266,15 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 9. ls (List)
 **Cara Penggunaan:**
-> ls [opsi] [nama_direktori]
+```bash
+ls [opsi] [nama_direktori]
+```
 
 **Contoh Penggunaan:**
-> ls
-
+- Menampilkan daftar folder dan file:
+  ```bash
+  ls
+  ```
   ![ls](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/ls.png)
 
 <div align="center">
@@ -244,10 +287,15 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 10. mkdir (Make Directory)
 **Cara Penggunaan:**
-> mkdir [nama_direktori]
+```bash
+mkdir [nama_direktori]
+```
 
 **Contoh Penggunaan:**
-> mkdir Hello
+- Membuat folder baru:
+  ```bash
+  mkdir Hello
+  ```
 
   ![mkdir](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/mkdir.png)
 
@@ -261,10 +309,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 11. cd
 **Cara Penggunaan:**
-> cd [nama_direktori]
-
+```bash
+cd [nama_direktori]
+```
 **Contoh Penggunaan:**
-> cd \Hello
+- Berpindah ke dalam direktori lain:
+  ```bash
+  cd \Hello
+  ```
 
   ![cd](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/cd.png)
 
@@ -278,11 +330,15 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 12. Touch
 **Cara Penggunaan:**
-> touch [opsi] [nama_file]
+```bash
+touch [nama_file]
+```
 
 **Contoh Penggunaan:**
-> touch readme.md
-
+- Membuat file baru:
+  ```bash
+  touch readme.md
+  ```
   ![touch](https://github.com/SyaifulKaromah/foto-repo/blob/2433ff73d1455cb33f814915a99bc0e32a802ff5/tugas2/touch.png)
 
 <div align="center">
@@ -295,10 +351,15 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 13. mv (move)
 **Cara Penggunaan:**
-> mv [nama_file_asal] [nama_file_tujuan]
+```bash
+mv [nama_file_asal] [nama_file_tujuan]
+```
 
 **Contoh Penggunaan:**
-> mv readme.md realme.md
+- Mengubah nama file:
+  ```bash
+  mv readme.md realme.md
+  ```
 
   ![head](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/mv.png)
 
@@ -312,11 +373,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 14. cat 
 **Cara Penggunaan:**
-> cat [nama_file]
-
+```bash
+cat [nama_file]
+```
 **Contoh Penggunaan:**
-> cat realme.md
-
+- Menampilkan isi file:
+  ```bash
+  cat realme.md
+  ```
   ![cat](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/cat.png)
 
 <div align="center">
@@ -329,11 +393,15 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 15. Head 
 **Cara Penggunaan:**
-> head [nama_file]
+```bash
+head [nama_file]
+```
 
 **Contoh Penggunaan:**
-> head realme.md
-
+- Menampilkan baris pertama file:
+  ```bash
+  head realme.md
+  ```
   ![head](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/head.png)
 
 <div align="center">
@@ -346,11 +414,15 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 16. tail 
 **Cara Penggunaan:**
-> tail [nama_file]
+```bash
+tail [nama_file]
+```
 
 **Contoh Penggunaan:**
-> tail realme.md
-
+- Menampilkan baris terakhir file:
+  ```bash
+  tail realme.md
+  ```
   ![tail](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/tail.png)
 
 <div align="center">
@@ -363,11 +435,15 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 17. passwd 
 **Cara Penggunaan:**
-> paswd
+```bash
+passwd
+```
 
 **Contoh Penggunaan:**
-> passwd
-
+- Mengganti password:
+  ```bash
+  passwd
+  ```
   ![passwd](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/passwd.png)
 
 <div align="center">
@@ -380,11 +456,15 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 18. nano 
 **Cara Penggunaan:**
-> nano [nama_file]
+```bash
+nano [nama_file]
+```
 
 **Contoh Penggunaan:**
-> nano realme.md
-
+- Membuka file untuk diedit:
+  ```bash
+  nano realme.md
+  ```
   ![nano](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/nano1.png)
 
   ![nano2](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/nano2.png)
@@ -399,10 +479,15 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 19. cp 
 **Cara Penggunaan:**
-> cp [opsi] [nama_file_asal] [nama_file_tujuan]
+```bash
+cp [nama_file_asal] [nama_file_tujuan]
+```
 
 **Contoh Penggunaan:**
-> cp realme.md readme.html
+- Menyalin file:
+  ```bash
+  cp realme.md readme.html
+  ```
 
   ![cp](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/cp.png)
 
@@ -416,11 +501,15 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 20. rm 
 **Cara Penggunaan:**
-> rm [nama_file]
+```bash
+rm [nama_file]
+```
 
 **Contoh Penggunaan:**
-> rm realme.md
-
+- Menghapus file:
+  ```bash
+  rm realme.md
+  ```
   ![rm](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/rm.png)
 
 <div align="center">
@@ -433,10 +522,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 21. wc 
 **Cara Penggunaan:**
-> wc [opsi] [nama_file]
+```
+wc [opsi] [nama_file]
+```
 
 **Contoh Penggunaan:**
-> wc -l realme.md
+```
+wc -l realme.md
+```
 
   ![wc](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/wc.png)
 
@@ -450,10 +543,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 22. wget (web get)
 **Cara Penggunaan:**
-> wget [url]
+```
+wget [url]
+```
 
 **Contoh Penggunaan:**
-> wget google.com
+```
+wget google.com
+```
 
   ![wget](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/wget.png)
 
@@ -467,10 +564,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 23. grep
 **Cara Penggunaan:**
-> grep [pola] [nama_file]
+```
+grep [pola] [nama_file]
+```
 
 **Contoh Penggunaan:**
-> grep "error"  index.html
+```
+grep "error"  index.html
+```
 
   ![grep](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/grep.png)
 
@@ -484,10 +585,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 24. tar
 **Cara Penggunaan:**
-> tar [opsi] [nama_file]
+```
+tar [opsi] [nama_file]
+```
 
 **Contoh Penggunaan:**
-> tar -czvf Hello.tar.gz Hello/
+```
+tar -czvf Hello.tar.gz Hello/
+```
 
   ![tar](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/tar.png)
 
@@ -501,10 +606,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 25. echo
 **Cara Penggunaan:**
-> echo [teks]
+```
+echo [teks]
+```
 
 **Contoh Penggunaan:**
-> echo M. Syaiful Karomah
+```
+echo M. Syaiful Karomah
+```
 
   ![echo](https://github.com/SyaifulKaromah/foto-repo/blob/271f566c6ce61a31bbf8b077aa596a21f4e48949/tugas2/echopng.png)
 
@@ -517,10 +626,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 26. date
 **Cara Penggunaan:**
-> date [option]
+```
+date [option]
+```
 
 **Contoh Penggunaan:**
-> date
+```
+date
+```
 
   ![date](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/date.png)
 
@@ -533,16 +646,20 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 27. df
 **Cara Penggunaan:**
-> df [option]
+```
+df [option]
+```
 
 **Contoh Penggunaan:**
-- > df
+```
+df
+```
+   ![df](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/df.png)
 
-    ![df](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/df.png)
-
-- > df -h
-
-    ![df](https://github.com/SyaifulKaromah/foto-repo/blob/main/tugas2/df2.png)
+```
+df -h
+```
+   ![df](https://github.com/SyaifulKaromah/foto-repo/blob/main/tugas2/df2.png)
 
 <div align="center">
 
@@ -553,10 +670,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 28. dig
 **Cara Penggunaan:**
-> dig [domain]
+```
+dig [domain]
+```
 
 **Contoh Penggunaan:**
-> dig
+```
+dig
+```
 
   ![dig](https://github.com/SyaifulKaromah/foto-repo/blob/main/tugas2/dig.png)
 
@@ -569,10 +690,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 29. htop
 **Cara Penggunaan:**
-> htop 
+```
+htop 
+```
 
 **Contoh Penggunaan:**
-> htop
+```
+htop
+```
 
   ![htop](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/htop1.png)
   
@@ -587,14 +712,20 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 30. du
 **Cara Penggunaan:**
-> du [opsi] [nama_direktori] 
+```
+du [opsi] [nama_direktori] 
+```
 
 **Contoh Penggunaan:**
-- > du
+```
+du
+```
 
   ![du](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/du.png)
 
-- > du -sh \Hello
+```
+du -sh \Hello
+```
 
   ![du -sh](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/du2.png)
   
@@ -607,10 +738,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 31. hostname
 **Cara Penggunaan:**
-> hostname 
+```
+hostname 
+```
 
 **Contoh Penggunaan:**
-> hostname
+```
+hostname
+```
 
   ![hostname](https://github.com/SyaifulKaromah/foto-repo/blob/b6e338c1530738d6f30ec9be68f2175cea7bdb60/tugas2/du.png)
 
@@ -623,10 +758,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 32. ifconfig
 **Cara Penggunaan:**
-> ifconfig [opsi]
+```
+ifconfig [opsi]
+```
 
 **Contoh Penggunaan:**
-> ifconfig
+```
+ifconfig
+```
 
   ![ifconfig](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/ifconfig.png)
 
@@ -639,20 +778,25 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 33. sudo apt
 **Cara Penggunaan:**
-> sudo apt [opsi] [perintah]
+```
+sudo apt [opsi] [perintah]
+```
 
 **Contoh Penggunaan:**
-- > sudo apt install net-tools
+```
+sudo apt install net-tools
+```
+   ![sudo apt install](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/install_net_tools.png)
 
-    ![sudo apt install](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/install_net_tools.png)
+```
+sudo apt update
+```
+   ![sudo apt update](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/sudo_apt_update.png)
 
-- > sudo apt update
-
-    ![sudo apt update](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/sudo_apt_update.png)
-
-- > sudo apt upgrade
-
-    ![sudo apt upgrade](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/sudo_apt_upgrade.png)
+```
+sudo apt upgrade
+```
+   ![sudo apt upgrade](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/sudo_apt_upgrade.png)
 
 <div align="center">
 
@@ -663,10 +807,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 34. kill
 **Cara Penggunaan:**
-> kill [Nomor_ID_Proses/PID]
+```
+kill [Nomor_ID_Proses/PID]
+```
 
 **Contoh Penggunaan:**
-> kill 2788
+```
+kill 2788
+```
 
   ![kill](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/kill.png)
 
@@ -679,10 +827,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 35. locate
 **Cara Penggunaan:**
-> locate [opsi] [nama_file]
+```
+locate [opsi] [nama_file]
+```
 
 **Contoh Penggunaan:**
-> locate -l realme.md
+```
+locate -l realme.md
+```
 
   ![locate](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/locate.png)
 
@@ -695,10 +847,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 36. netstat
 **Cara Penggunaan:**
-> netstat [opsi]
+```
+netstat [opsi]
+```
 
 **Contoh Penggunaan:**
-> netstat
+```
+netstat
+```
 
   ![netstat](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/netstat.png)
 
@@ -711,10 +867,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 37. nslookup
 **Cara Penggunaan:**
-> nslookup [domain]
+```
+nslookup [domain]
+```
 
 **Contoh Penggunaan:**
-> nslookup google.com
+```
+nslookup google.com
+```
 
   ![nslookup](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/nslookup2.png)
 
@@ -728,10 +888,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 38. ping
 **Cara Penggunaan:**
-> ping [opsi] [domain/IP_Address]
+```
+ping [opsi] [domain/IP_Address]
+```
 
 **Contoh Penggunaan:**
-> ping 8.8.8.8
+```
+ping 8.8.8.8
+```
 
   ![ping](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/ping.png)
 
@@ -744,10 +908,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 39. ps
 **Cara Penggunaan:**
-> ps [opsi] 
+```
+ps [opsi] 
+```
 
 **Contoh Penggunaan:**
-> ps aux
+```
+ps aux
+```
 
   ![ps](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/ps.png)
 
@@ -760,10 +928,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 40. locale
 **Cara Penggunaan:**
-> locale
+```
+locale
+```
 
 **Contoh Penggunaan:**
-> locale
+```
+locale
+```
 
   ![locale](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/locale.png)
 
@@ -776,10 +948,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 41. pwd
 **Cara Penggunaan:**
-> pwd
+```
+pwd
+```
 
 **Contoh Penggunaan:**
-> pwd
+```
+pwd
+```
 
   ![pwd](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/pwd.png)
 
@@ -792,10 +968,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 42. free
 **Cara Penggunaan:**
-> free [opsi]
+```
+free [opsi]
+```
 
 **Contoh Penggunaan:**
-> free
+```
+free
+```
 
   ![free](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/free.png)
 
@@ -808,10 +988,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 43. journalctl
 **Cara Penggunaan:**
-> journalctl [opsi] [service]
+```
+journalctl [opsi] [service]
+```
 
 **Contoh Penggunaan:**
-> journalctl -u NetworkManager-wait-online.service
+```
+journalctl -u NetworkManager-wait-online.service
+```
 
   ![journalctl](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/journalctl.png)
 
@@ -824,10 +1008,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 44. times
 **Cara Penggunaan:**
-> times
+```
+times
+```
 
 **Contoh Penggunaan:**
-> times
+```
+times
+```
 
   ![times](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/times.png)
 
@@ -840,10 +1028,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 45. top
 **Cara Penggunaan:**
-> top
+```
+top
+```
 
 **Contoh Penggunaan:**
-> top
+```
+top
+```
 
   ![top](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/top2.png)
 
@@ -856,10 +1048,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 46. uname
 **Cara Penggunaan:**
-> uname [ospi]
+```
+uname [ospi]
+```
 
 **Contoh Penggunaan:**
-> uname
+```
+uname
+```
 
   ![uname](https://github.com/SyaifulKaromah/foto-repo/blob/692cf7d65473eef7117b4781d2ded8c21781a2dd/tugas2/uname.png)
 
@@ -872,10 +1068,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 47. alias
 **Cara Penggunaan:**
-> alias
+```
+alias
+```
 
 **Contoh Penggunaan:**
-> alias
+```
+alias
+```
 
   ![alias](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/alias.png)
 
@@ -888,10 +1088,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 48. crontab
 **Cara Penggunaan:**
-> crontab [opsi]
+```
+crontab [opsi]
+```
 
 **Contoh Penggunaan:**
-> crontab -e
+```
+crontab -e
+```
 
   ![crontab](https://github.com/SyaifulKaromah/foto-repo/blob/main/tugas2/crontab_-e.png)
 
@@ -904,10 +1108,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 49. curl
 **Cara Penggunaan:**
-> curl [opsi] [URL]
+```
+curl [opsi] [URL]
+```
 
 **Contoh Penggunaan:**
-> curl google.com
+```
+curl google.com
+```
 
   ![curl](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/curl.png)
 
@@ -920,10 +1128,14 @@ command ```Exit``` digunakan untuk menutup terminal
 
 ### 50. file
 **Cara Penggunaan:**
-> file [namafile]
+```
+file [namafile]
+```
 
 **Contoh Penggunaan:**
-> file text.txt
+```
+file text.txt
+```
 
   ![file](https://github.com/SyaifulKaromah/foto-repo/blob/af5082a589f4f7372a55b5e222b15c2f864f205c/tugas2/file.png)
 
