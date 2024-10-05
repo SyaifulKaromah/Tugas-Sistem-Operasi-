@@ -1,5 +1,3 @@
-Here's the reformatted version with indented code blocks and images:
-
 [←    BACK](https://github.com/SyaifulKaromah/Tugas-Sistem-Operasi-/blob/main/README.md)
 # Tugas 7
 ## Informasi Mahasiswa
